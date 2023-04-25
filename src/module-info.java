@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author leandropc
+ *
+ */
+module VehicleAbstractFactory {
+}
